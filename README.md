@@ -156,7 +156,8 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 
 ## Novels
 
-- 🌟 [Biên niên ký chim vặn dây cót - Haruki Murakami](http://amzn.to/1PhScjL)
-- 🌑 [Animal Farm and 1984](http://amzn.to/1SCYYpr)
+- 🌟 [Biên niên ký chim vặn dây cót](https://tiki.vn/bien-nien-ky-chim-van-day-cot.html)
+- 🌟 [Kafka bên bờ biển](https://tiki.vn/kafka-ben-bo-bien-tai-ban-2015-p275071.html)
 
-*Inspired by https://github.com/bevacqua/reads*
+--
+* ^Inspired by https://github.com/bevacqua/reads*
