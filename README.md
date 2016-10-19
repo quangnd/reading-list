@@ -152,9 +152,11 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 
 ## Novels
 
-* Haruki Murakami - tác gia số một Nhật Bản (và thế giới) 🌟🌟🌟
+* [Haruki Murakami](https://vi.wikipedia.org/wiki/Murakami_Haruki) - tác gia số một Nhật Bản (và thế giới) 🌟🌟🌟
+
     - 🌟 [Biên niên ký chim vặn dây cót](https://tiki.vn/bien-nien-ky-chim-van-day-cot.html)
     - 🌟 [Kafka bên bờ biển](https://tiki.vn/kafka-ben-bo-bien-tai-ban-2015-p275071.html)
+    - 🌕 [Rừng nauy](https://tiki.vn/rung-na-uy-tai-ban-p50762.html)
 
 --
 *^Inspired by https://github.com/bevacqua/reads*
