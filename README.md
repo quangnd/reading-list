@@ -2,7 +2,7 @@
 
 > :books: Danh sách những cuốn sách tôi đã đọc và sẽ đọc. Các đánh giá cũng được đưa ra để bạn đọc tham khảo!
 
-**Xem bản tiếng Anh của danh sách này tại ....**
+Xem [English version](https://github.com/quangnd/reading-list/blob/master/README.en.md)
 
 ## Các qui ước đánh giá
 
@@ -138,8 +138,8 @@
 
 - 🌑 [A Brief History of Time](http://amzn.to/1PMITec)
 - 🌟 [Countdown to Zero Day <sub>Stuxnet and the Launch of the World's First Digital Weapon</sub>](http://amzn.to/1SCZIv0)
-- 🌑 [Elon Musk <sub>Tesla, SpaceX, and the Quest for a Fantastic Future</sub>](http://amzn.to/1PMIWXm)
-- 🌕 [Empires of Light <sub>Edison, Tesla, Westinghouse, and the Race to Electrify the World</sub>](http://amzn.to/1S6Vnki)
+- 🌟 [Elon Musk <sub>Tesla, SpaceX, và sứ mệnh tìm kiếm một tương lai ngoài sức tưởng tượng</sub>](http://amzn.to/1PMIWXm)
+- 🌕 [Empires of Light <sub>Edison, Tesla, Westinghouse, and the Race to Electrify the World</sub> - Ashlee Vance](http://amzn.to/1S6Vnki)
 - 🌑 [Ghost in the Wires <sub>My Adventures as the World's Most Wanted Hacker</sub>](http://amzn.to/1SCYYGd)
 - 🌑 [Masters of Doom <sub>How Two Guys Created an Empire and Transformed Pop Culture</sub>](http://amzn.to/1PMISXI)
 - 🌕 [Nikola Tesla: My Inventions](http://amzn.to/1S6YYip)
@@ -156,7 +156,7 @@
 
 ## Novels
 
-- 🌑 [A Confederacy of Dunces](http://amzn.to/1SCZ0xz)
+- 🌟 [Biên niên ký chim vặn dây cót - Haruki Murakami](http://amzn.to/1PhScjL)
 - 🌑 [Animal Farm and 1984](http://amzn.to/1SCYYpr)
 
 *Inspired by https://github.com/bevacqua/reads*
