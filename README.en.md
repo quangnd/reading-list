@@ -1,16 +1,14 @@
 # Reading-list
 
-> :books: Danh sách những cuốn sách tôi đã đọc và sẽ đọc. Các đánh giá cũng được đưa ra để bạn đọc tham khảo!
+> :books: A list of books I read and not yet. Includes ratings!
 
-**Xem bản tiếng Anh của danh sách này tại ....**
+## Ratings
 
-## Các qui ước đánh giá
-
-- 🌑 Chưa đọc
-- 🌘 🌗 🌖 Đang đọc
-- 🌕 Đã đọc xong và thấy thích
-- 🌝 **Không đề nghị đọc**
-- 🌟 **Thực sự thích**
+- 🌑 Haven't read yet
+- 🌘 🌗 🌖 Reading progress
+- 🌕 Finished reading, liked it
+- 🌝 **Wouldn't recommend**
+- 🌟 **Loved it**
 
 ## Web Performance
 
@@ -159,4 +157,4 @@
 - 🌑 [A Confederacy of Dunces](http://amzn.to/1SCZ0xz)
 - 🌑 [Animal Farm and 1984](http://amzn.to/1SCYYpr)
 
-*Inspired by https://github.com/bevacqua/reads*
+* Inspired by https://github.com/bevacqua/reads *
