@@ -113,20 +113,16 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 
 ## Way of Life
 
+- 🌟 [Mặt dầy tâm đen<sub>Để trở thành người kế thừa Hậu Hắc học</sub>](https://tiki.vn/mat-day-tam-den.html)
 - 🌕 [Search Inside Yourself <sub>The Unexpected Path to Achieving Success, Happiness (and World Peace)</sub>](http://amzn.to/1SCYYWw)
 - 🌑 [Tao Te Ching](http://amzn.to/1PMIXKV)
 - 🌕 [The Art of Learning <sub>An Inner Journey to Optimal Performance</sub>](http://amzn.to/1SCZHad)
 
 ## Startups/Businesses
 
-- 🌑 [Business Adventures <sub>Twelve Classic Tales from the World of Wall Street</sub>](http://amzn.to/2aaljeT)
-- 🌕 [Rework](http://amzn.to/1SD1coP)
-- 🌑 [Start-up Nation <sub>The Story of Israel's Economic Miracle</sub>](http://amzn.to/1SCZ0h4)
-- 🌟 [The Innovator’s Dilemma <sub>When New Technologies Cause Great Firms to Fail</sub>](http://amzn.to/1SCYYG9)
-- 🌟 [The Lean Startup <sub>How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</sub>](http://amzn.to/1SD0Qi5)
-- 🌕 [The New Kingmakers <sub>How Developers Conquered the World</sub>](http://amzn.to/2a72jxt)
-- 🌕 [The Year Without Pants <sub>WordPress.com and the Future of Work</sub>](http://amzn.to/1SCZTX1)
-- 🌟 [Zero to One <sub>Notes on Startups, or How to Build the Future</sub>](http://amzn.to/1S6Va0y)
+- 🌟 [Vương quốc sáng tạo <sub>Câu chuyện về hãng phim hoạt hình Pixar</sub>](https://tiki.vn/vuong-quoc-sang-tao-p227891.html)
+- 🌟 [Khởi nghiệp tinh gọn <sub>The Lean startup</sub>](https://tiki.vn/khoi-nghiep-tinh-gon-p52702.html)
+- 🌕 [Khác biệt để bứt phá <sub>Rework</sub>](https://tiki.vn/khac-biet-de-but-pha-p69696.html)
 
 ## Teamwork
 
@@ -160,4 +156,4 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 - 🌟 [Kafka bên bờ biển](https://tiki.vn/kafka-ben-bo-bien-tai-ban-2015-p275071.html)
 
 --
-* ^Inspired by https://github.com/bevacqua/reads*
+*^Inspired by https://github.com/bevacqua/reads*
