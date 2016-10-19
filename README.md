@@ -113,7 +113,7 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 
 ## Way of Life
 
-- 🌟 [Mặt dầy tâm đen<sub>Để trở thành người kế thừa Hậu Hắc học</sub>](https://tiki.vn/mat-day-tam-den.html)
+- 🌟 [Mặt dầy tâm đen <sub>Để trở thành người kế thừa Hậu Hắc học</sub>](https://tiki.vn/mat-day-tam-den.html)
 - 🌕 [Search Inside Yourself <sub>The Unexpected Path to Achieving Success, Happiness (and World Peace)</sub>](http://amzn.to/1SCYYWw)
 - 🌑 [Tao Te Ching](http://amzn.to/1PMIXKV)
 - 🌕 [The Art of Learning <sub>An Inner Journey to Optimal Performance</sub>](http://amzn.to/1SCZHad)
@@ -152,8 +152,9 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 
 ## Novels
 
-- 🌟 [Biên niên ký chim vặn dây cót](https://tiki.vn/bien-nien-ky-chim-van-day-cot.html)
-- 🌟 [Kafka bên bờ biển](https://tiki.vn/kafka-ben-bo-bien-tai-ban-2015-p275071.html)
+* Haruki Murakami - tác gia số một Nhật Bản (và thế giới) 🌟🌟🌟
+    - 🌟 [Biên niên ký chim vặn dây cót](https://tiki.vn/bien-nien-ky-chim-van-day-cot.html)
+    - 🌟 [Kafka bên bờ biển](https://tiki.vn/kafka-ben-bo-bien-tai-ban-2015-p275071.html)
 
 --
 *^Inspired by https://github.com/bevacqua/reads*
