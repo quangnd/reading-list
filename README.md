@@ -157,6 +157,7 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
     - 🌟 [Biên niên ký chim vặn dây cót](https://tiki.vn/bien-nien-ky-chim-van-day-cot.html)
     - 🌟 [Kafka bên bờ biển](https://tiki.vn/kafka-ben-bo-bien-tai-ban-2015-p275071.html)
     - 🌕 [Rừng nauy](https://tiki.vn/rung-na-uy-tai-ban-p50762.html)
+    - 🌟 [Cuộc săn cừu hoang](https://tiki.vn/cuoc-san-cuu-hoang.html)
 
 * [Dan Brown](https://vi.wikipedia.org/wiki/Dan_Brown) - chuyên gia về tiểu thuyết hư cấu (biểu tượng, khoa học, trinh thám, tâm lý...)
 
