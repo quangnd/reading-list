@@ -12,7 +12,7 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 - 🌝 **Không đề nghị đọc**
 - 🌟 **Thực sự thích**
 
-## Web Performance
+## Web Performance - IT
 
 - 🌑 [Designing for Performance <sub>Weighing Aesthetics and Speed</sub>](http://amzn.to/1SCZ0hj)
 - 🌑 [Even Faster Web Sites <sub>Performance Best Practices for Web Developers</sub>](http://amzn.to/1SCYY9b)
@@ -118,7 +118,7 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 - 🌑 [Tao Te Ching](http://amzn.to/1PMIXKV)
 - 🌕 [The Art of Learning <sub>An Inner Journey to Optimal Performance</sub>](http://amzn.to/1SCZHad)
 
-## Startups/Businesses
+## Khởi nghiệp/Thương mại (Startups/Businesses)
 
 - 🌟 [Vương quốc sáng tạo <sub>Câu chuyện về hãng phim hoạt hình Pixar</sub>](https://tiki.vn/vuong-quoc-sang-tao-p227891.html)
 - 🌟 [Khởi nghiệp tinh gọn <sub>The Lean startup</sub>](https://tiki.vn/khoi-nghiep-tinh-gon-p52702.html)
@@ -150,13 +150,17 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 - 🌕 [xkcd: volume 0](http://amzn.to/1SD1PyG)
 - 🌑 [Thing Explainer <sub>Complicated Stuff in Simple Words</sub>](http://amzn.to/1PMIWqm)
 
-## Novels
+## Tiểu thuyết (Novel)
 
 * [Haruki Murakami](https://vi.wikipedia.org/wiki/Murakami_Haruki) - tác gia số một Nhật Bản (và thế giới) 🌟🌟🌟
 
     - 🌟 [Biên niên ký chim vặn dây cót](https://tiki.vn/bien-nien-ky-chim-van-day-cot.html)
     - 🌟 [Kafka bên bờ biển](https://tiki.vn/kafka-ben-bo-bien-tai-ban-2015-p275071.html)
     - 🌕 [Rừng nauy](https://tiki.vn/rung-na-uy-tai-ban-p50762.html)
+
+* [Dan Brown](https://vi.wikipedia.org/wiki/Dan_Brown) - chuyên gia về tiểu thuyết hư cấu (biểu tượng, khoa học, trinh thám, tâm lý...)
+
+    - 🌟 [Mật mã Da Vinci](https://tiki.vn/mat-ma-da-vinci.html)
 
 --
 *^Inspired by https://github.com/bevacqua/reads*
