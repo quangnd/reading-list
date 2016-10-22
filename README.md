@@ -115,8 +115,9 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 
 - 🌟 [Mặt dầy tâm đen <sub>Để trở thành người kế thừa Hậu Hắc học</sub>](https://tiki.vn/mat-day-tam-den.html)
 - 🌕 [Search Inside Yourself <sub>The Unexpected Path to Achieving Success, Happiness (and World Peace)</sub>](http://amzn.to/1SCYYWw)
-- 🌑 [Tao Te Ching](http://amzn.to/1PMIXKV)
-- 🌕 [The Art of Learning <sub>An Inner Journey to Optimal Performance</sub>](http://amzn.to/1SCZHad)
+- 🌟 [Sức mạnh của thói quen](https://tiki.vn/suc-manh-cua-thoi-quen-power-of-habits-tai-ban-p60463.html)
+- 🌟 [Sức mạnh của hiện tại](https://tiki.vn/suc-manh-cua-hien-tai-tai-ban-p266307.html)
+- 🌕 [Đi tìm lẽ sống <sub>Man's search for meaning</sub>](https://tiki.vn/di-tim-le-song-tai-ban-p262203.html)
 
 ## Khởi nghiệp/Thương mại (Startups/Businesses)
 
