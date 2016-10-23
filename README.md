@@ -33,6 +33,8 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 
 - 🌑 [Adaptive Web Design <sub>Crafting Rich Experiences with Progressive Enhancement</sub>](http://amzn.to/1SCYY97)
 - 🌘 [CSS Secrets <sub>Better Solutions to Everyday Web Design Problems</sub>](http://amzn.to/1PMIVml)
+- 🌕 [Learning Web design <sub>A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics 4th edition</sub>](https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript/dp/1449319270)
+- 🌕 [The Principles of Beautiful Web Design](https://www.amazon.com/Principles-Beautiful-Web-Design/dp/0992279445/ref=pd_sim_14_4?_encoding=UTF8&psc=1&refRID=FCCYE9Q0S6P6X5ZHC9ZA)
 
 ## Art/Design
 
