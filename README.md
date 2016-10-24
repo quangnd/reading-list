@@ -106,6 +106,7 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 - 🌑 [Antifragile <sub>Things That Gain from Disorder</sub>](http://amzn.to/1PMIVmz)
 - 🌑 [Gödel, Escher, Bach <sub>An Eternal Golden Braid</sub>](http://amzn.to/1SCZ00J)
 - 🌟 [Tư duy nhanh và chậm <sub>Nên hay không nên tin vào trực giác</sub>](https://tiki.vn/tu-duy-nhanh-va-cham-p114145.html)
+- 🌟 [Tự truyện của một Yogi <sub>Tác phẩm tâm linh quan trọng bậc nhất của thế kỷ 20</sub>](https://tiki.vn/tu-truyen-cua-mot-yogi-p104013.html)
 
 ## On Writing
 
@@ -116,6 +117,7 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 ## On Memory & Learning Methods
 
 - 🌟 [Phiêu bước cùng Einstein](https://tiki.vn/phieu-buoc-cung-einstein-p60115.html)
+- 🌕 [Bí mật của một trí nhớ siêu phàm](https://tiki.vn/bi-mat-cua-mot-tri-nho-sieu-pham-tai-ban-2015-p177859.html)
 
 ## Way of Life
 
@@ -166,10 +168,17 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
     - 🌟 [Kafka bên bờ biển](https://tiki.vn/kafka-ben-bo-bien-tai-ban-2015-p275071.html)
     - 🌕 [Rừng nauy](https://tiki.vn/rung-na-uy-tai-ban-p50762.html)
     - 🌟 [Cuộc săn cừu hoang](https://tiki.vn/cuoc-san-cuu-hoang.html)
+    - 🌕 [Nhảy nhảy nhảy <sub>Tiếp nối của Cuộc săn cừu hoang</sub>(https://tiki.vn/nhay-nhay-nhay-31776.html)
+    - 🌟 [Tôi nói gì khi nói về chạy bộ <sub>Tuyệt phẩm cho runner</sub>](https://tiki.vn/toi-noi-gi-khi-noi-ve-chay-bo-tai-ban-2015-p131009.html)
 
 * [Dan Brown](https://vi.wikipedia.org/wiki/Dan_Brown) - chuyên gia về tiểu thuyết hư cấu (biểu tượng, khoa học, trinh thám, tâm lý...)
 
     - 🌟 [Mật mã Da Vinci](https://tiki.vn/mat-ma-da-vinci.html)
+    - 🌟 [Thiên thần và ác quỷ](https://tiki.vn/thien-than-va-ac-quy-bia-mem-p108295.html)
+    - 🌕 [Hoả ngục](https://tiki.vn/hoa-nguc-p91019.html)
+
+* Các tác giả Khác
+    - 🌟 [Phía sau nghi can X](https://tiki.vn/phia-sau-nghi-can-x.html)
 
 --
 *^Inspired by https://github.com/bevacqua/reads*
