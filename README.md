@@ -105,7 +105,7 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 
 - 🌑 [Antifragile <sub>Things That Gain from Disorder</sub>](http://amzn.to/1PMIVmz)
 - 🌑 [Gödel, Escher, Bach <sub>An Eternal Golden Braid</sub>](http://amzn.to/1SCZ00J)
-- 🌟 [Thinking, Fast and Slow](http://amzn.to/1SCZOm6)
+- 🌟 [Tư duy nhanh và chậm <sub>Nên hay không nên tin vào trực giác</sub>](https://tiki.vn/tu-duy-nhanh-va-cham-p114145.html)
 
 ## On Writing
 
@@ -113,10 +113,14 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 - 🌑 [On Writing Well <sub>The Classic Guide to Writing Nonfiction</sub>](http://amzn.to/1PMIWqx)
 - 🌟 [The Sense of Style <sub>The Thinking Person's Guide to Writing in the 21st Century</sub>](http://amzn.to/1PMIQz5)
 
+## On Memory & Learning Methods
+
+- 🌟 [Phiêu bước cùng Einstein](https://tiki.vn/phieu-buoc-cung-einstein-p60115.html)
+
 ## Way of Life
 
 - 🌟 [Mặt dầy tâm đen <sub>Để trở thành người kế thừa Hậu Hắc học</sub>](https://tiki.vn/mat-day-tam-den.html)
-- 🌕 [Search Inside Yourself <sub>The Unexpected Path to Achieving Success, Happiness (and World Peace)</sub>](http://amzn.to/1SCYYWw)
+- 🌕 [The one thing <sub>Điều ý nghĩa nhất trong từng khoảnh khắc cuộc đời</sub>](https://tiki.vn/dieu-y-nghia-nhat-trong-cuoc-doi.html)
 - 🌟 [Sức mạnh của thói quen](https://tiki.vn/suc-manh-cua-thoi-quen-power-of-habits-tai-ban-p60463.html)
 - 🌟 [Sức mạnh của hiện tại](https://tiki.vn/suc-manh-cua-hien-tai-tai-ban-p266307.html)
 - 🌕 [Đi tìm lẽ sống <sub>Man's search for meaning</sub>](https://tiki.vn/di-tim-le-song-tai-ban-p262203.html)
@@ -147,6 +151,7 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 - 🌑 [The Cathedral & the Bazaar <sub>Musings on Linux and Open Source by an Accidental Revolutionary</sub>](http://amzn.to/1SCYY93)
 - 🌑 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
 - 🌑 [Weaving the Web <sub>The Original Design and Ultimate Destiny of the World Wide Web</sub>](http://amzn.to/1PMITel)
+- 🌝 [Sinh vào ngày xanh <sub>Tự truyện của một người tự kỷ</sub>](https://tiki.vn/sinh-vao-ngay-xanh.html)
 
 ## Comics/Casual Reads
 
