@@ -168,7 +168,7 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
     - 🌟 [Kafka bên bờ biển](https://tiki.vn/kafka-ben-bo-bien-tai-ban-2015-p275071.html)
     - 🌕 [Rừng nauy](https://tiki.vn/rung-na-uy-tai-ban-p50762.html)
     - 🌟 [Cuộc săn cừu hoang](https://tiki.vn/cuoc-san-cuu-hoang.html)
-    - 🌕 [Nhảy nhảy nhảy <sub>Tiếp nối của Cuộc săn cừu hoang</sub>(https://tiki.vn/nhay-nhay-nhay-31776.html)
+    - 🌕 [Nhảy nhảy nhảy <sub>phần tiếp của Cuộc săn cừu</sub>](https://tiki.vn/nhay-nhay-nhay-31776.html)
     - 🌟 [Tôi nói gì khi nói về chạy bộ <sub>Tuyệt phẩm cho runner</sub>](https://tiki.vn/toi-noi-gi-khi-noi-ve-chay-bo-tai-ban-2015-p131009.html)
 
 * [Dan Brown](https://vi.wikipedia.org/wiki/Dan_Brown) - chuyên gia về tiểu thuyết hư cấu (biểu tượng, khoa học, trinh thám, tâm lý...)
