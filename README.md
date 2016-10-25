@@ -114,10 +114,15 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 - 🌑 [On Writing Well <sub>The Classic Guide to Writing Nonfiction</sub>](http://amzn.to/1PMIWqx)
 - 🌟 [The Sense of Style <sub>The Thinking Person's Guide to Writing in the 21st Century</sub>](http://amzn.to/1PMIQz5)
 
-## On Memory & Learning Methods
+## Trí nhớ và phương pháp học tập hiệu quả (On Memory & Learning Methods)
 
 - 🌟 [Phiêu bước cùng Einstein](https://tiki.vn/phieu-buoc-cung-einstein-p60115.html)
 - 🌕 [Bí mật của một trí nhớ siêu phàm](https://tiki.vn/bi-mat-cua-mot-tri-nho-sieu-pham-tai-ban-2015-p177859.html)
+- 🌟 [Sơ đồ tư duy](https://tiki.vn/so-do-tu-duy-p158984.html)
+- 🌟 [Làm chủ trí nhớ của bạn](https://tiki.vn/lam-chu-tri-nho-cua-ban-tai-ban-2014-p105814.html)
+- 🌟 [Sử dụng trí nhớ của bạn](https://tiki.vn/su-dung-tri-nho-cua-ban-p80468.html)
+- 🌟 [Sách dạy đọc nhanh](https://tiki.vn/sach-day-doc-nhanh-tai-ban-p121022.html)
+- 🌟 [Sách hướng dẫn kỹ năng học tập của Tony Buzan <sub>Con đường ngắn nhất để giúp bạn thành công trong học tập</sub>](https://tiki.vn/ky-nang-hoc-tap-theo-phuong-phap-buzan-tai-ban-2014-p92516.html)
 
 ## Way of Life
 
@@ -126,12 +131,16 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 - 🌟 [Sức mạnh của thói quen](https://tiki.vn/suc-manh-cua-thoi-quen-power-of-habits-tai-ban-p60463.html)
 - 🌟 [Sức mạnh của hiện tại](https://tiki.vn/suc-manh-cua-hien-tai-tai-ban-p266307.html)
 - 🌕 [Đi tìm lẽ sống <sub>Man's search for meaning</sub>](https://tiki.vn/di-tim-le-song-tai-ban-p262203.html)
+- 🌟 [Tại sao lại chần chừ](https://tiki.vn/tai-sao-lai-chan-chu-ban-moi-2011-p30619.html)
+- 🌟 [Tại sao cần đơn giản](https://tiki.vn/tai-sao-can-don-gian-tai-ban-p253581.html)
+- 🌟 [Tại sao phải hành động](https://tiki.vn/tai-sao-phai-hanh-dong-eb.html)
 
 ## Khởi nghiệp/Thương mại (Startups/Businesses)
 
 - 🌟 [Vương quốc sáng tạo <sub>Câu chuyện về hãng phim hoạt hình Pixar</sub>](https://tiki.vn/vuong-quoc-sang-tao-p227891.html)
 - 🌟 [Khởi nghiệp tinh gọn <sub>The Lean startup</sub>](https://tiki.vn/khoi-nghiep-tinh-gon-p52702.html)
 - 🌕 [Khác biệt để bứt phá <sub>Rework</sub>](https://tiki.vn/khac-biet-de-but-pha-p69696.html)
+- 🌕 [Những điều trường Harvard không dạy bạn](https://tiki.vn/nhung-dieu-truong-harvard-khong-day-ban-tb-p2795.html)
 
 ## Teamwork
 
