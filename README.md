@@ -141,10 +141,11 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 - 🌟 [Khởi nghiệp tinh gọn <sub>The Lean startup</sub>](https://tiki.vn/khoi-nghiep-tinh-gon-p52702.html)
 - 🌕 [Khác biệt để bứt phá <sub>Rework</sub>](https://tiki.vn/khac-biet-de-but-pha-p69696.html)
 - 🌕 [Những điều trường Harvard không dạy bạn](https://tiki.vn/nhung-dieu-truong-harvard-khong-day-ban-tb-p2795.html)
+- 🌗 [Ai nói voi không thể khiêu vũ <sub>Những bí mật chưa được tiết lộ trong hành trình trở lại ngoạn mục của IBM</sub>](https://tiki.vn/ai-noi-voi-khong-the-khieu-vu.html)
 
 ## Teamwork
 
-- 🌕 [Peopleware <sub>Productive Projects and Teams</sub>](http://amzn.to/1SD1j3S)
+- 🌑 [Peopleware <sub>Productive Projects and Teams</sub>](http://amzn.to/1SD1j3S)
 - 🌑 [Rapid Development <sub>Taming Wild Software Schedules</sub>](http://amzn.to/1SD1rAv)
 - 🌟 [The Mythical Man-Month <sub>Essays on Software Engineering</sub>](http://amzn.to/1PhScjL)
 
@@ -179,12 +180,15 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
     - 🌟 [Cuộc săn cừu hoang](https://tiki.vn/cuoc-san-cuu-hoang.html)
     - 🌕 [Nhảy nhảy nhảy <sub>phần tiếp của Cuộc săn cừu</sub>](https://tiki.vn/nhay-nhay-nhay-31776.html)
     - 🌟 [Tôi nói gì khi nói về chạy bộ <sub>Tuyệt phẩm cho runner</sub>](https://tiki.vn/toi-noi-gi-khi-noi-ve-chay-bo-tai-ban-2015-p131009.html)
+    - 🌕 [1Q84](https://tiki.vn/boxset-1q84-p191326.html)
+    - 🌟 [Người tình Sputnik](https://tiki.vn/nguoi-tinh-sputnik-tai-ban-p93582.html)
 
 * [Dan Brown](https://vi.wikipedia.org/wiki/Dan_Brown) - chuyên gia về tiểu thuyết hư cấu (biểu tượng, khoa học, trinh thám, tâm lý...)
 
     - 🌟 [Mật mã Da Vinci](https://tiki.vn/mat-ma-da-vinci.html)
     - 🌟 [Thiên thần và ác quỷ](https://tiki.vn/thien-than-va-ac-quy-bia-mem-p108295.html)
     - 🌕 [Hoả ngục](https://tiki.vn/hoa-nguc-p91019.html)
+    - 🌕 [Pháo đài số](https://tiki.vn/phao-dai-so-bia-cung-p105461.html)
 
 * Các tác giả Khác
     - 🌟 [Phía sau nghi can X](https://tiki.vn/phia-sau-nghi-can-x.html)
