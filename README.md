@@ -123,6 +123,7 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 - 🌟 [Sử dụng trí nhớ của bạn](https://tiki.vn/su-dung-tri-nho-cua-ban-p80468.html)
 - 🌟 [Sách dạy đọc nhanh](https://tiki.vn/sach-day-doc-nhanh-tai-ban-p121022.html)
 - 🌟 [Sách hướng dẫn kỹ năng học tập của Tony Buzan <sub>Con đường ngắn nhất để giúp bạn thành công trong học tập</sub>](https://tiki.vn/ky-nang-hoc-tap-theo-phuong-phap-buzan-tai-ban-2014-p92516.html)
+- 🌟 [Learn more study less](https://www.scotthyoung.com/blog/sales-pages/learn-more-study-less/)
 
 ## Way of Life
 
