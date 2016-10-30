@@ -107,6 +107,8 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 - 🌑 [Gödel, Escher, Bach <sub>An Eternal Golden Braid</sub>](http://amzn.to/1SCZ00J)
 - 🌟 [Tư duy nhanh và chậm <sub>Nên hay không nên tin vào trực giác</sub>](https://tiki.vn/tu-duy-nhanh-va-cham-p114145.html)
 - 🌟 [Tự truyện của một Yogi <sub>Tác phẩm tâm linh quan trọng bậc nhất của thế kỷ 20</sub>](https://tiki.vn/tu-truyen-cua-mot-yogi-p104013.html)
+- 🌕 [Tư duy tối ưu](https://tiki.vn/tu-duy-toi-uu-first-thing-first-p8102.html)
+- 🌟 [7 thói quen để thành đạt](https://tiki.vn/7-thoi-quen-de-thanh-dat-tai-ban-2016-p188934.html)
 
 ## On Writing
 
