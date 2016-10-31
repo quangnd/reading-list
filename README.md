@@ -101,6 +101,10 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 
 - 🌑 [Capital <sub>in the Twenty First Century</sub>](http://amzn.to/2a727OE)
 
+## On Working
+
+- 🌕 [Tuần làm việc 4 giờ](https://tiki.vn/tuan-lam-viec-4-gio-p25805-p25805.html)
+
 ## On Thinking
 
 - 🌑 [Antifragile <sub>Things That Gain from Disorder</sub>](http://amzn.to/1PMIVmz)
