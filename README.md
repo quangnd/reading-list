@@ -2,8 +2,6 @@
 
 > :books: Danh sách những cuốn sách tôi đã đọc và sẽ đọc. Các đánh giá cũng được đưa ra để bạn đọc tham khảo!
 
-Xem [English version](https://github.com/quangnd/reading-list/blob/master/README.en.md)
-
 ## Các qui ước đánh giá
 
 - 🌑 Chưa đọc
@@ -130,6 +128,7 @@ Xem [English version](https://github.com/quangnd/reading-list/blob/master/README
 - 🌟 [Sách dạy đọc nhanh](https://tiki.vn/sach-day-doc-nhanh-tai-ban-p121022.html)
 - 🌟 [Sách hướng dẫn kỹ năng học tập của Tony Buzan <sub>Con đường ngắn nhất để giúp bạn thành công trong học tập</sub>](https://tiki.vn/ky-nang-hoc-tap-theo-phuong-phap-buzan-tai-ban-2014-p92516.html)
 - 🌟 [Learn more study less](https://www.scotthyoung.com/blog/sales-pages/learn-more-study-less/)
+- 🌕 [20 giờ đầu tiên <sub>Cách học nhanh bất cứ thứ gì</sub>](https://tiki.vn/20-gio-dau-tien-p117760.html)
 
 ## Way of Life
 
