@@ -50,6 +50,7 @@
 - 🌑 [Learning Python](http://amzn.to/1S6XiFt)
 - 🌑 [Programming Elixir <sub>`Functional |> Concurrent |> Pragmatic |> Fun`</sub>](http://amzn.to/1PMIVmv)
 - 🌑 [The Art of UNIX Programming](http://amzn.to/1PMISXS)
+- 🌑 [Effective JavaScript <sub>68 Specific Ways to Harness the Power of JavaScript _(2013)_</sub>](https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182/ref=sr_1_1?ie=UTF8&qid=1478226834&sr=8-1&keywords=effective+javascript)
 
 ## Internals
 
