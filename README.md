@@ -173,6 +173,7 @@
 - 🌑 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
 - 🌑 [Weaving the Web <sub>The Original Design and Ultimate Destiny of the World Wide Web</sub>](http://amzn.to/1PMITel)
 - 🌝 [Sinh vào ngày xanh <sub>Tự truyện của một người tự kỷ</sub>](https://tiki.vn/sinh-vao-ngay-xanh.html)
+- 🌕 [Mỗi ngày tiết kiệm một giờ](https://tiki.vn/moi-ngay-tiet-kiem-mot-gio-p44632.html)
 
 ## Comics/Casual Reads
 
@@ -203,6 +204,7 @@
 
 * Các tác giả Khác
     - 🌟 [Phía sau nghi can X](https://tiki.vn/phia-sau-nghi-can-x.html)
+    - 
 
 --
 *^Inspired by https://github.com/bevacqua/reads*
