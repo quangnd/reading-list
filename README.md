@@ -168,18 +168,22 @@
 
 - 🌑 [A Brief History of Time](http://amzn.to/1PMITec)
 - 🌟 [Countdown to Zero Day <sub>Stuxnet and the Launch of the World's First Digital Weapon</sub>](http://amzn.to/1SCZIv0)
-- 🌟 [Elon Musk <sub>Tesla, SpaceX, và sứ mệnh tìm kiếm một tương lai ngoài sức tưởng tượng</sub>](http://amzn.to/1PMIWXm)
 - 🌕 [Empires of Light <sub>Edison, Tesla, Westinghouse, and the Race to Electrify the World</sub> - Ashlee Vance](http://amzn.to/1S6Vnki)
 - 🌑 [Ghost in the Wires <sub>My Adventures as the World's Most Wanted Hacker</sub>](http://amzn.to/1SCYYGd)
 - 🌑 [Masters of Doom <sub>How Two Guys Created an Empire and Transformed Pop Culture</sub>](http://amzn.to/1PMISXI)
-- 🌕 [Nikola Tesla: My Inventions](http://amzn.to/1S6YYip)
-- 🌑 [Outliers <sub>The Story of Success</sub>](http://amzn.to/1SCZ0hb)
+- 🌟 [Outliers <sub>The Story of Success</sub>](http://amzn.to/1SCZ0hb)
 - 🌟 [Surely You're Joking, Mr. Feynman! <sub>Adventures of a Curious Character</sub>](http://amzn.to/1S6XwfU)
 - 🌑 [The Cathedral & the Bazaar <sub>Musings on Linux and Open Source by an Accidental Revolutionary</sub>](http://amzn.to/1SCYY93)
 - 🌑 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
 - 🌑 [Weaving the Web <sub>The Original Design and Ultimate Destiny of the World Wide Web</sub>](http://amzn.to/1PMITel)
 - 🌝 [Sinh vào ngày xanh <sub>Tự truyện của một người tự kỷ</sub>](https://tiki.vn/sinh-vao-ngay-xanh.html)
 - 🌕 [Mỗi ngày tiết kiệm một giờ](https://tiki.vn/moi-ngay-tiet-kiem-mot-gio-p44632.html)
+
+## Tiểu sử/Danh nhân (Biography)
+
+- 🌟 [Steve Job](https://amzn.com/1501127624)
+- 🌟 [Elon Musk <sub>Tesla, SpaceX, và sứ mệnh tìm kiếm một tương lai ngoài sức tưởng tượng</sub>](http://amzn.to/1PMIWXm)
+- 🌑 [Nikola Tesla: My Inventions](http://amzn.to/1S6YYip)
 
 ## Comics/Casual Reads
 
