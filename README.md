@@ -73,6 +73,7 @@
 - 🌕 [Refactoring: Improving the Design of Existing Code](http://amzn.to/1S6Z49J)
 - 🌕 [The Clean Coder <sub>A Code of Conduct for Professional Programmers</sub>](http://amzn.to/1S6YGrH)
 - 🌟 [The Pragmatic Programmer <sub>From Journeyman to Master</sub>](http://amzn.to/1S6WZdR)
+- 🌑 [Waltzing With Bears: Managing Risk on Software Projects](https://www.amazon.com/Waltzing-Bears-Managing-Software-Projects/dp/0932633609)
 
 ## Algorithms
 
