@@ -110,6 +110,7 @@
 ## On Working
 
 - 🌕 [Tuần làm việc 4 giờ](https://tiki.vn/tuan-lam-viec-4-gio-p25805-p25805.html)
+- 🌟 [Getting Things Done](http://a.co/29Coudb)
 
 ## On Thinking
 
