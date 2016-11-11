@@ -120,6 +120,7 @@
 - 🌟 [Tự truyện của một Yogi <sub>Tác phẩm tâm linh quan trọng bậc nhất của thế kỷ 20</sub>](https://tiki.vn/tu-truyen-cua-mot-yogi-p104013.html)
 - 🌕 [Tư duy tối ưu](https://tiki.vn/tu-duy-toi-uu-first-thing-first-p8102.html)
 - 🌟 [7 thói quen để thành đạt](https://tiki.vn/7-thoi-quen-de-thanh-dat-tai-ban-2016-p188934.html)
+- 🌕 [Nghĩ ngược lại và làm khác đi](https://tiki.vn/nghi-nguoc-lai-va-lam-khac-di-tai-ban-2015-p147203.html)
 
 ## On Writing
 
