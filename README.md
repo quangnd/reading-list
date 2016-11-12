@@ -187,6 +187,7 @@
 - 🌟 [Steve Job <sub>Walter Isaacson</sub>](https://amzn.com/1501127624)
 - 🌟 [Elon Musk <sub>Tesla, SpaceX, và sứ mệnh tìm kiếm một tương lai ngoài sức tưởng tượng</sub>](http://amzn.to/1PMIWXm)
 - 🌑 [Nikola Tesla: My Inventions](http://amzn.to/1S6YYip)
+- 🌕 [Thành Long <sub>Chưa lớn đã già</sub>](https://tiki.vn/thanh-long-chua-lon-da-gia-p204954.html)
 
 ## Comics/Casual Reads
 
