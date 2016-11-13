@@ -218,7 +218,7 @@
 
 * Các tác giả Khác
     - 🌟 [Phía sau nghi can X](https://tiki.vn/phia-sau-nghi-can-x.html)
-    - 
+    - 🌟 [Hannibal](https://tiki.vn/hannibal-va-nhung-ngay-run-ray-bat-dau-p77146.html)
 
 --
 *^Inspired by https://github.com/bevacqua/reads*
