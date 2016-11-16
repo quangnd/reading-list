@@ -216,6 +216,7 @@
     - 🌟 [Thiên thần và ác quỷ](https://tiki.vn/thien-than-va-ac-quy-bia-mem-p108295.html)
     - 🌕 [Hoả ngục](https://tiki.vn/hoa-nguc-p91019.html)
     - 🌕 [Pháo đài số](https://tiki.vn/phao-dai-so-bia-cung-p105461.html)
+    - 🌕 [Điểm dối lừa](https://tiki.vn/diem-doi-lua-bia-mem-p109277.html)
 
 * Các tác giả Khác
     - 🌟 [Phía sau nghi can X](https://tiki.vn/phia-sau-nghi-can-x.html)
