@@ -15,8 +15,6 @@
 - 🌗 [No Sweat <sub>How the Simple Science of Motivation Can Bring You a Lifetime of Fitness</sub>](https://www.amazon.com/No-Sweat-Science-Motivation-Lifetime-ebook/dp/B00TRF2LGU)
 - 🌗 [The personal MBA <sub>...a world-class business education in a single volume</sub>](https://personalmba.com/)
 - 🌗 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
-- 🌕 [Trâm <sub>Nữ hoạn quan 1</sub>](https://tiki.vn/tram-nu-hoan-quan-p153589.html)
-- 🌖 [Trâm <sub>Nữ hoạn quan 2</sub>]
 - 🌖 [Làm sao nói về những CUỐN SÁCH chưa đọc](http://nhanam.com.vn/sach/1872/lam-sao-noi-ve-nhung-cuon-sach-chua-doc)
 
 ## Web Performance - IT
@@ -220,8 +218,13 @@
     - 🌕 [Pháo đài số](https://tiki.vn/phao-dai-so-bia-cung-p105461.html)
     - 🌕 [Điểm dối lừa](https://tiki.vn/diem-doi-lua-bia-mem-p109277.html)
 
-* Các tác giả Khác
+* Trinh thám - Hình sự
     - 🌟 [Phía sau nghi can X](https://tiki.vn/phia-sau-nghi-can-x.html)
+    - 🌕 [Trâm <sub>Nữ hoạn quan 1</sub>](https://tiki.vn/tram-nu-hoan-quan-p153589.html)
+    - 🌕 [Trâm <sub>Kẻ yểu mệnh</sub>](https://tiki.vn/tram-ke-yeu-menh-p176885.html)
+    - 🌕 [Trâm <sub>Tình lang hờ</sub>](https://tiki.vn/tram-tap-3-tinh-lang-ho-p215738.html)
+
+* Các tác giả Khác
     - 🌟 [Hannibal](https://tiki.vn/hannibal-va-nhung-ngay-run-ray-bat-dau-p77146.html)
     - 🌟 [Sự im lặng của bầy cừu](https://tiki.vn/su-im-lang-cua-bay-cuu-p94547.html)
 
