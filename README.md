@@ -210,7 +210,8 @@
     - 🌟 [Người tình Sputnik](https://tiki.vn/nguoi-tinh-sputnik-tai-ban-p93582.html)
     - 🌕 [Lắng nghe gió hát <sub>05/1979</sub>](https://www.amazon.com/Hear-Wind-Sing-Haruki-Murakami/dp/477002214X)
     - 🌕 [Phía nam biên giới, phía tây mặt trời](https://tiki.vn/phia-nam-bien-gioi-phia-tay-mat-troi-p7786.html)
-    
+    - 🌟 [Tazaki Tsukuru Không Màu <sub>Và những năm tháng hành hương</sub>](https://tiki.vn/tazaki-tsukuru-khong-mau-va-nhung-nam-thang-hanh-huong-p115031.html)
+
 * [Dan Brown](https://vi.wikipedia.org/wiki/Dan_Brown) - chuyên gia về tiểu thuyết hư cấu (biểu tượng, khoa học, trinh thám, tâm lý...)
 
     - 🌟 [Mật mã Da Vinci](https://tiki.vn/mat-ma-da-vinci.html)
