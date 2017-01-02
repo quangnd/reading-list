@@ -162,6 +162,7 @@
 - 🌗 [Ai nói voi không thể khiêu vũ <sub>Những bí mật chưa được tiết lộ trong hành trình trở lại ngoạn mục của IBM</sub>](https://tiki.vn/ai-noi-voi-khong-the-khieu-vu.html)
 - 🌗 [Từ những hạt sồi <sub>Các bước cơ bản để xây dựng thành công một doanh nghiệp</sub>](https://tiki.vn/tu-nhung-hat-soi-cac-buoc-co-ban-de-xay-dung-thanh-cong-mot-doanh-nghiep-p59374.html)
 - 🌟 [The personal MBA <sub>...a world-class business education in a single volume</sub>](https://personalmba.com/)
+- 🌕 [Dốc hết trái tim <sub>Cách Starbucks xây dựng công ty bằng từng tách cafe</sub>](https://tiki.vn/doc-het-trai-tim-tai-ban-2013-p59727.html)
 
 ## Teamwork
 
