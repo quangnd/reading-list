@@ -13,6 +13,7 @@
 ## Reading List Now (1/2017) 
 
 - 🌘 [Trò chơi tư duy <sub>Sổ tay thủ thuật tư duy sáng tạo </sub>](https://tiki.vn/tro-choi-tu-duy-p266442.html)
+- 🌕 [Phương Pháp Đúng - Hiệu Quả Cao](https://www.vinabook.com/phuong-phap-dung-hieu-qua-cao-p66715.html)
 
 ## Reading List Now (11/2016) 
 
@@ -20,6 +21,7 @@
 - 🌗 [The personal MBA <sub>...a world-class business education in a single volume</sub>](https://personalmba.com/)
 - 🌗 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
 - 🌕 [Làm sao nói về những CUỐN SÁCH chưa đọc](http://nhanam.com.vn/sach/1872/lam-sao-noi-ve-nhung-cuon-sach-chua-doc)
+- 🌝 [Thuật tẩy não](https://www.vinabook.com/thuat-tay-nao-p69608.html)
 
 ## Web Performance - IT
 
