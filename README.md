@@ -21,7 +21,6 @@
 - 🌗 [The personal MBA <sub>...a world-class business education in a single volume</sub>](https://personalmba.com/)
 - 🌗 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
 - 🌕 [Làm sao nói về những CUỐN SÁCH chưa đọc](http://nhanam.com.vn/sach/1872/lam-sao-noi-ve-nhung-cuon-sach-chua-doc)
-- 🌝 [Thuật tẩy não](https://www.vinabook.com/thuat-tay-nao-p69608.html)
 
 ## Web Performance - IT
 
@@ -169,6 +168,7 @@
 - 🌗 [Từ những hạt sồi <sub>Các bước cơ bản để xây dựng thành công một doanh nghiệp</sub>](https://tiki.vn/tu-nhung-hat-soi-cac-buoc-co-ban-de-xay-dung-thanh-cong-mot-doanh-nghiep-p59374.html)
 - 🌟 [The personal MBA <sub>...a world-class business education in a single volume</sub>](https://personalmba.com/)
 - 🌕 [Dốc hết trái tim <sub>Cách Starbucks xây dựng công ty bằng từng tách cafe</sub>](https://tiki.vn/doc-het-trai-tim-tai-ban-2013-p59727.html)
+- 🌝 [Thuật tẩy não](https://www.vinabook.com/thuat-tay-nao-p69608.html)
 
 ## Teamwork
 
