@@ -66,7 +66,6 @@
 
 ## Internals
 
-- 🌑 [CLR via C#](http://amzn.to/1PhSuHf)
 - 🌘 [Compilers: Principles, Techniques, and Tools](http://amzn.to/1SD1YCe)
 - 🌕 [Mastering Regular Expressions](http://amzn.to/1SD0Ezx)
 
