@@ -17,9 +17,9 @@
 
 ## Reading List Now (11/2016) 
 
-- 🌗 [No Sweat <sub>How the Simple Science of Motivation Can Bring You a Lifetime of Fitness</sub>](https://www.amazon.com/No-Sweat-Science-Motivation-Lifetime-ebook/dp/B00TRF2LGU)
+- 🌗 (Pending) [No Sweat <sub>How the Simple Science of Motivation Can Bring You a Lifetime of Fitness</sub>](https://www.amazon.com/No-Sweat-Science-Motivation-Lifetime-ebook/dp/B00TRF2LGU)
 - 🌗 [The personal MBA <sub>...a world-class business education in a single volume</sub>](https://personalmba.com/)
-- 🌗 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
+- 🌗 (Pending) [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
 - 🌕 [Làm sao nói về những CUỐN SÁCH chưa đọc](http://nhanam.com.vn/sach/1872/lam-sao-noi-ve-nhung-cuon-sach-chua-doc)
 
 ## Web Performance - IT
