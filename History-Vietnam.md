@@ -1,6 +1,6 @@
 # Reading-list
 
-> :books: Các góc nhìn kahsc về lịch sử Việt Nam cận đại - quãng từ khi Bác ra đi tìm đường cứu nước tới trước năm 2000 dựa trên các sách chính sử hoặc các tác phẩm viết tay, hồi ký, truyện ngắn, bài báo, tiểu thuyết...mà đã được tổng hợp thành sách (chính thống hoặc không chính thống).
+> :books: Các góc nhìn khác về lịch sử Việt Nam cận đại - quãng từ khi Bác ra đi tìm đường cứu nước tới trước năm 2000 dựa trên các sách chính sử hoặc các tác phẩm viết tay, hồi ký, truyện ngắn, bài báo, tiểu thuyết...mà đã được tổng hợp thành sách (chính thống hoặc không chính thống).
 
 ## Các qui ước đánh giá
 
