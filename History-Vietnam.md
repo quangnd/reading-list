@@ -18,6 +18,7 @@ Hồi ký Một cơn gió bụi của Lệ Thần Trần Trọng Kim xuất bả
 ```
 
 - 🌑 [Hồi ký Nguyễn Hiến Lê](link)
+- 🌑 [Lời ai điếu <sub>Lê Phú Khải</sub>](link)
 
 ## Tiểu thuyết
 
@@ -27,3 +28,6 @@ Hồi ký Một cơn gió bụi của Lệ Thần Trần Trọng Kim xuất bả
 ```
 Trần Trọng Kim (1883 – 1953) là một học giả danh tiếng, bút hiệu Lệ Thần, thủ tướng của Đế quốc Việt Nam (1945) và là thủ tướng đầu tiên của Việt Nam. Ông là tác giả của tác phẩm Việt Nam sử lược.
 ```
+
+2. Nguyễn Hiến Lê
+3. Lê Phú Khải
