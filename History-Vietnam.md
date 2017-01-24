@@ -17,7 +17,7 @@ Hồi ký Một cơn gió bụi của Lệ Thần Trần Trọng Kim xuất bả
 ```
 
 - 🌑 [Hồi ký Nguyễn Hiến Lê](#)
-- 🌑 [Lời ai điếu <sub>Lê Phú Khải</sub>](link)
+- 🌑 [Lời ai điếu <sub>Lê Phú Khải</sub>](#)
 
 ## Tiểu thuyết
 
