@@ -16,7 +16,7 @@
 Hồi ký Một cơn gió bụi của Lệ Thần Trần Trọng Kim xuất bản năm 1949, mang nội dung tóm lược quãng đời làm chính trị của ông (từ năm 1942 đến năm 1948). Trong cuốn hồi ký, ông có đề cập và nói lên suy nghĩ của mình về các sự kiện lớn xảy ra trong nước thời bấy giờ như sự thành lập chính phủ của Đế quốc Việt Nam do ông làm thủ tướng, sau đó là Cách mạng tháng Tám, sự cầm quyền của Việt Minh, cùng cuộc chiến tranh Đông Dương lần thứ nhất do Việt Minh phát động.
 ```
 
-- 🌑 [Hồi ký Nguyễn Hiến Lê](#)
+- 🌘 [Hồi ký Nguyễn Hiến Lê](#)
 - 🌑 [Lời ai điếu <sub>Lê Phú Khải</sub>](#)
 
 ## Tiểu thuyết
@@ -29,4 +29,9 @@ Trần Trọng Kim (1883 – 1953) là một học giả danh tiếng, bút hi�
 ```
 
 2. Nguyễn Hiến Lê
+
+```
+https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Hi%E1%BA%BFn_L%C3%AA
+```
+
 3. Lê Phú Khải
