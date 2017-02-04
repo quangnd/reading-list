@@ -16,6 +16,8 @@
 - 🌕 [Phương Pháp Đúng - Hiệu Quả Cao](https://www.vinabook.com/phuong-phap-dung-hieu-qua-cao-p66715.html)
 - 🌕 [Ông già và biển cả <sub>NXB Văn học - Lê Huy Bắc dịch</sub>](https://tiki.vn/ong-gia-va-bien-ca-dinh-ti-p104119.html)
 - 🌖 [Cẩm nang tư duy Học tập và nghiên cứu](https://tiki.vn/cam-nang-tu-duy-hoc-tap-va-nghien-cuu-p138550.html)
+- 🌕 [Cẩm nang tư duy phản biện <sub>Khái niệm và công cụ</sub>](https://tiki.vn/cam-nang-tu-duy-phan-bien-p138540.html)
+- 🌘 [Cẩm nang tư duy đặt câu hỏi bản chất](https://tiki.vn/cam-nang-tu-duy-dat-cau-hoi-ban-chat-p138576.html)
 
 ## Reading List Now (11/2016) 
 
