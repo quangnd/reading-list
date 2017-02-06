@@ -18,6 +18,7 @@
 - 🌖 [Cẩm nang tư duy Học tập và nghiên cứu](https://tiki.vn/cam-nang-tu-duy-hoc-tap-va-nghien-cuu-p138550.html)
 - 🌕 [Cẩm nang tư duy phản biện <sub>Khái niệm và công cụ</sub>](https://tiki.vn/cam-nang-tu-duy-phan-bien-p138540.html)
 - 🌘 [Cẩm nang tư duy đặt câu hỏi bản chất](https://tiki.vn/cam-nang-tu-duy-dat-cau-hoi-ban-chat-p138576.html)
+- toi la thay tuong so 
 
 ## Reading List Now (11/2016) 
 
