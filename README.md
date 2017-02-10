@@ -19,6 +19,7 @@
 - 🌕 [Cẩm nang tư duy phản biện <sub>Khái niệm và công cụ</sub>](https://tiki.vn/cam-nang-tu-duy-phan-bien-p138540.html)
 - 🌘 [Cẩm nang tư duy đặt câu hỏi bản chất](https://tiki.vn/cam-nang-tu-duy-dat-cau-hoi-ban-chat-p138576.html)
 - 🌗 [Tôi là thầy tướng số](https://tiki.vn/toi-la-thay-tuong-so-tap-1-p127471.html)
+- 🌗 [Thiên ảnh <sub>Tiêu Đỉnh-ebook</sub>](http://www.dtv-ebook.com/ebook-thien-anh-tieu-dinh-full-prc-pdf-epub-azw3-tien-hiep_3817.html)
 
 ## Reading List Now (11/2016) 
 
