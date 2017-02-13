@@ -21,6 +21,7 @@
 - 🌖 [Tôi là thầy tướng số](https://tiki.vn/toi-la-thay-tuong-so-tap-1-p127471.html)
 - 🌗 [Thiên ảnh <sub>Tiêu Đỉnh-ebook</sub>](http://www.dtv-ebook.com/ebook-thien-anh-tieu-dinh-full-prc-pdf-epub-azw3-tien-hiep_3817.html)
 - 🌗 [Tạp văn chọn lọc Nguyễn Quang Lập <sub>Ký ức vụn</sub>](#)
+- 🌗 [Sổ tay viết văn tiếng anh <sub>Trung cấp</sub>](#)
 
 ## Reading List Now (11/2016) 
 
