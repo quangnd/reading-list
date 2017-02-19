@@ -23,7 +23,9 @@
 - 🌗 [Tôi là thầy tướng số 3](#)
 - 🌗 [Thiên ảnh <sub>Tiêu Đỉnh-ebook</sub>](http://www.dtv-ebook.com/ebook-thien-anh-tieu-dinh-full-prc-pdf-epub-azw3-tien-hiep_3817.html)
 - 🌗 [Tạp văn chọn lọc Nguyễn Quang Lập <sub>Ký ức vụn</sub>](#)
-- 🌗 [Sổ tay viết văn tiếng anh <sub>Trung cấp</sub>](#)
+- 🌗 [Sổ tay viết văn tiếng anh 1<sub>Sơ cấp</sub>](#)
+- 🌗 [Sổ tay viết văn tiếng anh 2<sub>Trung cấp</sub>](#)
+- 🌗 [Nhật ký Anne Frank](https://tiki.vn/nhat-ky-anne-frank-p31702.html)
 
 ## Reading List Now (11/2016) 
 
