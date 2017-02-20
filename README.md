@@ -25,7 +25,7 @@
 - 🌗 [Tạp văn chọn lọc Nguyễn Quang Lập <sub>Ký ức vụn</sub>](#)
 - 🌗 [Sổ tay viết văn tiếng anh 1<sub>Sơ cấp</sub>](#)
 - 🌗 [Sổ tay viết văn tiếng anh 2<sub>Trung cấp</sub>](#)
-- 🌗 [Nhật ký Anne Frank](https://tiki.vn/nhat-ky-anne-frank-p31702.html)
+- 🌖 [Nhật ký Anne Frank](https://tiki.vn/nhat-ky-anne-frank-p31702.html)
 
 ## Reading List Now (11/2016) 
 
