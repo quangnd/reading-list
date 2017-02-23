@@ -23,7 +23,7 @@ Hồi ký Một cơn gió bụi của Lệ Thần Trần Trọng Kim xuất bả
 ## Tiểu thuyết
 
 - 🌑 [Đêm giữa ban ngày](#)
-- 🌑 [Ngày long trời, đêm lở đất](#)
+- 🌘 [Ngày long trời, đêm lở đất](#)
 
 
 ## Về các tác giả
