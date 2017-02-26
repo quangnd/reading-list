@@ -22,7 +22,7 @@
 - 🌕 [Tôi là thầy tướng số 2](https://tiki.vn/toi-la-thay-tuong-so-tap-2-p127472.html)
 - 🌗 [Tôi là thầy tướng số 3](#)
 - 🌕 [Thiên ảnh 1 - Tới chap 92<sub>Tiêu Đỉnh-ebook</sxb>](http://www.dtv-ebook.com/ebook-thien-anh-tieu-dinh-full-prc-pdf-epub-azw3-tien-hiep_3817.html)
-- 🌗 [Tạp văn chọn lọc Nguyễn Quang Lập <sub>Ký ức vụn</sub>](#)
+- 🌟 [Ký ức vụn 1<sub>Tạp văn - Nguyễn Quang Lập</sub>](#)
 - 🌗 [Sổ tay viết văn tiếng anh 1<sub>Sơ cấp</sub>](#)
 - 🌗 [Sổ tay viết văn tiếng anh 2<sub>Trung cấp</sub>](#)
 - 🌕 [Nhật ký Anne Frank](https://tiki.vn/nhat-ky-anne-frank-p31702.html)
