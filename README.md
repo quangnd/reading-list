@@ -140,6 +140,7 @@
 - 🌟 [7 thói quen để thành đạt](https://tiki.vn/7-thoi-quen-de-thanh-dat-tai-ban-2016-p188934.html)
 - 🌕 [Nghĩ ngược lại và làm khác đi](https://tiki.vn/nghi-nguoc-lai-va-lam-khac-di-tai-ban-2015-p147203.html)
 - 🌘 [Tôi là ai <sub>Và nếu vậy thì bao nhiêu?</sub>](https://tiki.vn/toi-la-ai-va-neu-vay-thi-bao-nhieu-p33498.html)
+- 🌑 [The remains of the Day]()
 
 ## On Writing
 
