@@ -12,9 +12,7 @@
 
 ## List 1 from Goodreads
 
-100 cuốn sách bạn nhất định phải đọc trong đời
-
-Truong May 27.03.2015 The 100 Best Leave a comment 7,625 Views
+**100 cuốn sách bạn nhất định phải đọc trong đời**
 
 Nhân dịp kỉ niệm tháng 3 là tháng đọc sách của người Mỹ, trang Goodreads.com mới đây đã đưa ra danh sách 100 cuốn sách bạn nên đọc một lần trong đời do người dùng bình chọn và xếp hạng.
 
@@ -26,7 +24,7 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 
 1. 🌗 To Kill a Mockingbird (Giết con chim nhại) – Harper Lee
 2. Pride and Prejudice (Kiêu hãnh và định kiến) – Jane Austen
-3. The Diary of Anne Frank (Nhật ký Anne Frank) – Anne Frank
+3. 🌕 The Diary of Anne Frank (Nhật ký Anne Frank) – Anne Frank
 4. 1984 – George Orwell
 5. Harry Potter and the Sorcerer’s Stone (Harry Potter và Hòn đá phù thủy) – J.K. Rowling
 6. The Lord of the Rings (1-3) (Chúa tể của những chiếc nhẫn) – J.R.R. Tolkien
@@ -34,7 +32,6 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 8. Charlotte’s Web (Mạng nhện của Charlotte) E.B. White
 9. The Hobbit (Người Hobbit) – J.R.R. Tolkien
 10. Little Women (Những phụ nữ nhỏ bé) – Louisa May Alcott
-
 11. Fahrenheit 451 – Ray Bradbury
 12. Jane Eyre – Charlotte Bronte
 13. Animal Farm (Trại súc vật) – George Orwell
@@ -43,7 +40,6 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 16. The Book Thief (Kẻ trộm sách) – Markus Zusak
 17. The Adventures of Huckleberry Finn (Những cuộc phiêu lưu của Huckleberry Finn) – Mark Twain
 18. The Hunger Games (Đấu trường sinh tử) – Suzanne Collins
-
 19. The Help (Người giúp việc) – Kathryn Stockett
 20. The Lion, the Witch, and the Wadrobe (Sư tử, phù thủy và tủ quần áo) – C.S. Lewis
 21. The Grapes of Wrath (Chùm nho uất hận) – John Steinbeck
@@ -56,7 +52,6 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 28. A Tale of Two Cities (Chuyện hai thành phố) – Charles Dickens
 29. Romeo and Juliet – William Shakespeare
 30. The Hitchhiker’s Guide to the Galaxy (Hướng dẫn của người đi nhờ xe về con đường đến với dải ngân hà) – Douglas Adams
-
 31. The Secret Garden (Khu vườn bí mật) – Frances Hodgson Burnett
 32. A Christmas Carol (Bài hát mừng Giáng sinh) – Charles Dickens
 33. The Little Prince (Hoàng tử bé) – Antoine de Saint-Exupéry
@@ -67,7 +62,6 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 38. Where the Sidewalk Ends (Nơi lề đường) – Shel Silverstein
 39. Wuthering Heights (Đồi gió hú) – Emily Bronte
 40. The Fault in Our Stars (Khi lỗi thuộc về những vì sao) – John Green
-
 41. Anne of Green Gables (Anne tóc đỏ dưới Chái nhà xanh) – L.M. Montgomery
 42. The Adventures of Tom Sawyer (Những cuộc phiêu lưu của Tom Sawyer) – Mark Twain
 43. Macbeth William Shakespeare
@@ -78,7 +72,6 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 48. The Count of Monte Cristo (Bá tước Monte Cristo) – Alexandre Dumas
 49. A Tree Grows in Brooklyn (Cây mọc ở Brooklyn) – Betty Smith
 50. East of Eden (Phía đông vườn địa đàng) – John Steinbeck
-
 51. Alice in Wonderland (Alice ở xứ sở thần tiên) – Lewis Carroll
 52. In Cold Blood (Máu lạnh) – Truman Capote
 53. Catch-22 – Joseph Heller
@@ -89,18 +82,16 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 58. Anna Karenina – Leo Tolstoy
 59. Watership Down (Đồi thỏ) – Richard Adams
 60. Memoirs of a Geisha (Hồi ức của một geisha) – Arthur Golden
-
 61. Rebecca – Daphne du Maurier
 62. A Game of Thrones (Trò chơi vương quyền) – George R.R. Martin
 63. Great Expectations (Những kỳ vọng lớn lao) – Charles Dickens
-64. The Old Man and the Sea (Ông già và biển cả) – Ernest Hemingway
+64. 🌕 The Old Man and the Sea (Ông già và biển cả) – Ernest Hemingway
 65. The Adventures of Sherlock Holmes (#3) (Những cuộc phiêu lưu của Sherlock Holmes) – Arthur Conan Doyle
 66. Les Misérables (Những người khốn khổ) – Victor Hugo
 67. Harry Potter and the Half-Blood Prince (Harry Potter và Hoàng tử lai) – J.K. Rowling
 68. Life of Pi (Cuộc đời của Pi) – Yann Martel
 69. The Scarlet Letter (Chữ A màu đỏ) – Nathaniel Hawthorne
 70. Celebrating Silence: Excerpts from Five Years of Weekly Knowledge – Sri Sri Ravi Shankar
-
 71. The Chronicles of Narnia ((Biên niên sử Narnia) – C.S. Lewis
 72. The Pillars of the Earth (Những trụ cột của Trái đất) – Ken Follett
 73. Catching Fire (Bắt lửa) – Suzanne Collins
@@ -111,7 +102,6 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 78. The Raven (Con quạ) – Edgar Allan Poe
 79. The Secret Life of Bees (Bí mật đời ong) – Sue Monk Kidd
 80. The Poisonwood Bible: A Novel (Quyển thánh kinh làm bằng gỗ độc) – Barbara Kingsolver
-
 81. One Hundred Years of Solitude (Trăm năm cô đơn) – Gabriel Garcí¬a Márquez
 82. The Time Traveler’s Wife (Vợ người du hành thời gian) – Audrey Niffenegger
 83. The Odyssey (Sử thi Odyssey) – Homer
@@ -122,7 +112,6 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 88. A Prayer for Owen Meany (Lời cầu nguyện cho Owen Meany) – John Irving
 89. The Glass Castle (Lâu đài thủy tinh) – Jeannette Walls
 90. The Immortal Life of Henrietta Lacks (Cuộc sống bất tử của Henrietta Lacks) – Rebecca Skloot
-
 91. Crime and Punishment (Tội ác và hình phạt) – Fyodor Dostoyevsky
 92. The Road (Con đường) – Cormac McCarthy
 93. The Things They Carried (Những thứ họ mang) – Tim O’Brien
