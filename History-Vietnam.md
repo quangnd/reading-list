@@ -24,7 +24,7 @@ Hồi ký Một cơn gió bụi của Lệ Thần Trần Trọng Kim xuất bả
 
 - 🌑 [Đêm giữa ban ngày](#)
 - 🌘 [Ngày long trời, đêm lở đất](#)
-
+- 🌑 [Bên thắng cuộc <sub>Huy Đức</sub>](#)
 
 ## Về các tác giả
 1. Trần Trọng Kim
