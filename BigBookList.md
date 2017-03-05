@@ -12,6 +12,8 @@
 
 ## List 1 from Goodreads
 
+[Tracking my reading progress with GoogleSheet](https://docs.google.com/spreadsheets/d/1gKkxHf6vFP8y_WdcckLQl9bDAlrujZBuqBn1Ckns2iM/edit?usp=sharing)
+
 **100 cuốn sách bạn nhất định phải đọc trong đời**
 
 Nhân dịp kỉ niệm tháng 3 là tháng đọc sách của người Mỹ, trang Goodreads.com mới đây đã đưa ra danh sách 100 cuốn sách bạn nên đọc một lần trong đời do người dùng bình chọn và xếp hạng.
