@@ -75,7 +75,7 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 49. A Tree Grows in Brooklyn (Cây mọc ở Brooklyn) – Betty Smith
 50. East of Eden (Phía đông vườn địa đàng) – John Steinbeck
 51. Alice in Wonderland (Alice ở xứ sở thần tiên) – Lewis Carroll
-52. In Cold Blood (Máu lạnh) – Truman Capote
+52. 🌘 In Cold Blood (Máu lạnh) – Truman Capote
 53. Catch-22 – Joseph Heller
 54. The Stand (Chốt chặn) – Stephen King
 55. Outlander (Người ngoại tộc) – Diana Gabaldon
