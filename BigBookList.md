@@ -59,7 +59,7 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 33. The Little Prince (Hoàng tử bé) – Antoine de Saint-Exupéry
 34. Brave New World (Tân thế giới dũng cảm) – Aldous Huxley
 35. Harry Potter and the Deathly Hallows (Harry Potter và Bảo bối Tử thần) – J.K. Rowling
-36. The Giver (Người truyền ký ức) – Lois Lowry
+36. 🌘 The Giver (Người truyền ký ức) – Lois Lowry
 37. The Handmaid’s Tale (Chuyện người tì nữ) – Margaret Atwood
 38. Where the Sidewalk Ends (Nơi lề đường) – Shel Silverstein
 39. Wuthering Heights (Đồi gió hú) – Emily Bronte
@@ -75,7 +75,7 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 49. A Tree Grows in Brooklyn (Cây mọc ở Brooklyn) – Betty Smith
 50. East of Eden (Phía đông vườn địa đàng) – John Steinbeck
 51. Alice in Wonderland (Alice ở xứ sở thần tiên) – Lewis Carroll
-52. 🌘 In Cold Blood (Máu lạnh) – Truman Capote
+52. 🌟 In Cold Blood (Máu lạnh) – Truman Capote
 53. Catch-22 – Joseph Heller
 54. The Stand (Chốt chặn) – Stephen King
 55. Outlander (Người ngoại tộc) – Diana Gabaldon
@@ -87,7 +87,7 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 61. Rebecca – Daphne du Maurier
 62. A Game of Thrones (Trò chơi vương quyền) – George R.R. Martin
 63. Great Expectations (Những kỳ vọng lớn lao) – Charles Dickens
-64. 🌕 The Old Man and the Sea (Ông già và biển cả) – Ernest Hemingway
+64. 🌟 The Old Man and the Sea (Ông già và biển cả) – Ernest Hemingway
 65. The Adventures of Sherlock Holmes (#3) (Những cuộc phiêu lưu của Sherlock Holmes) – Arthur Conan Doyle
 66. Les Misérables (Những người khốn khổ) – Victor Hugo
 67. Harry Potter and the Half-Blood Prince (Harry Potter và Hoàng tử lai) – J.K. Rowling
