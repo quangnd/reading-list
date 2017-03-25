@@ -31,24 +31,24 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 5. Harry Potter and the Sorcerer’s Stone (Harry Potter và Hòn đá phù thủy) – J.K. Rowling
 6. The Lord of the Rings (1-3) (Chúa tể của những chiếc nhẫn) – J.R.R. Tolkien
 7. The Great Gatsby (Gatsby vĩ đại) – F. Scott Fitzgerald
-8. Charlotte’s Web (Mạng nhện của Charlotte) E.B. White
+8. 🌑 Charlotte’s Web (Mạng nhện của Charlotte) E.B. White
 9. The Hobbit (Người Hobbit) – J.R.R. Tolkien
 10. Little Women (Những phụ nữ nhỏ bé) – Louisa May Alcott
-11. Fahrenheit 451 – Ray Bradbury
+11. 🌕 Fahrenheit 451 – Ray Bradbury
 12. Jane Eyre – Charlotte Bronte
 13. Animal Farm (Trại súc vật) – George Orwell
 14. Gone with the Wind (Cuốn theo chiều gió) – Margaret Mitchell
-15. The Catcher in the Rye (Bắt trẻ đồng xanh) – J.D. Salinger
+15. 🌟 The Catcher in the Rye (Bắt trẻ đồng xanh) – J.D. Salinger
 16. The Book Thief (Kẻ trộm sách) – Markus Zusak
 17. The Adventures of Huckleberry Finn (Những cuộc phiêu lưu của Huckleberry Finn) – Mark Twain
 18. The Hunger Games (Đấu trường sinh tử) – Suzanne Collins
 19. The Help (Người giúp việc) – Kathryn Stockett
 20. The Lion, the Witch, and the Wadrobe (Sư tử, phù thủy và tủ quần áo) – C.S. Lewis
 21. The Grapes of Wrath (Chùm nho uất hận) – John Steinbeck
-22. The Lord of the Flies (Chúa Ruồi) – William Golding
+22. 🌑 The Lord of the Flies (Chúa Ruồi) – William Golding
 23. The Kite Runner (Người đua diều) – Khaled Hosseini
 24. Night (Đêm) – Elie Wiesel
-25. Hamlet William Shakespeare
+25. Hamlet - William Shakespeare
 26. A Wrinkle in Time (Nếp gấp thời gian) – Madeleine L’Engle
 27. Of Mice and Men (Chuyện của chuột và người) – John Steinbeck
 28. A Tale of Two Cities (Chuyện hai thành phố) – Charles Dickens
@@ -59,7 +59,7 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 33. The Little Prince (Hoàng tử bé) – Antoine de Saint-Exupéry
 34. Brave New World (Tân thế giới dũng cảm) – Aldous Huxley
 35. Harry Potter and the Deathly Hallows (Harry Potter và Bảo bối Tử thần) – J.K. Rowling
-36. 🌘 The Giver (Người truyền ký ức) – Lois Lowry
+36. 🌕 The Giver (Người truyền ký ức) – Lois Lowry
 37. The Handmaid’s Tale (Chuyện người tì nữ) – Margaret Atwood
 38. Where the Sidewalk Ends (Nơi lề đường) – Shel Silverstein
 39. Wuthering Heights (Đồi gió hú) – Emily Bronte
@@ -117,7 +117,7 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 91. Crime and Punishment (Tội ác và hình phạt) – Fyodor Dostoyevsky
 92. The Road (Con đường) – Cormac McCarthy
 93. The Things They Carried (Những thứ họ mang) – Tim O’Brien
-94. Siddhartha (Câu chuyện dòng sông) – Hermann Hesse
+94. 🌑 Siddhartha (Câu chuyện dòng sông) – Hermann Hesse
 95. Beloved (Người yêu dấu) – Toni Morrison
 96. Slaughterhouse-Five (Lò sát sinh số 5) – Kurt Vonnegut
 97. Cutting For Stone – Abraham Verghese
