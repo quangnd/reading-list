@@ -30,7 +30,7 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 4. 1984 – George Orwell
 5. Harry Potter and the Sorcerer’s Stone (Harry Potter và Hòn đá phù thủy) – J.K. Rowling
 6. The Lord of the Rings (1-3) (Chúa tể của những chiếc nhẫn) – J.R.R. Tolkien
-7. The Great Gatsby (Gatsby vĩ đại) – F. Scott Fitzgerald
+7. 🌗 The Great Gatsby (Gatsby vĩ đại) – F. Scott Fitzgerald
 8. 🌑 Charlotte’s Web (Mạng nhện của Charlotte) E.B. White
 9. 🌟 The Hobbit (Người Hobbit) – J.R.R. Tolkien
 10. Little Women (Những phụ nữ nhỏ bé) – Louisa May Alcott
@@ -41,20 +41,20 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 15. 🌟 The Catcher in the Rye (Bắt trẻ đồng xanh) – J.D. Salinger
 16. 🌟 The Book Thief (Kẻ trộm sách) – Markus Zusak
 17. 🌑 The Adventures of Huckleberry Finn (Những cuộc phiêu lưu của Huckleberry Finn) – Mark Twain
-18.  🌑 The Hunger Games (Đấu trường sinh tử) – Suzanne Collins
+18. 🌟 The Hunger Games (Đấu trường sinh tử) – Suzanne Collins
 19. The Help (Người giúp việc) – Kathryn Stockett
 20. The Lion, the Witch, and the Wadrobe (Sư tử, phù thủy và tủ quần áo) – C.S. Lewis
 21. The Grapes of Wrath (Chùm nho uất hận) – John Steinbeck
-22. 🌑 The Lord of the Flies (Chúa Ruồi) – William Golding
+22. 🌟 The Lord of the Flies (Chúa Ruồi) – William Golding
 23. The Kite Runner (Người đua diều) – Khaled Hosseini
 24. Night (Đêm) – Elie Wiesel
 25. Hamlet - William Shakespeare
 26. A Wrinkle in Time (Nếp gấp thời gian) – Madeleine L’Engle
 27. Of Mice and Men (Chuyện của chuột và người) – John Steinbeck
 28. A Tale of Two Cities (Chuyện hai thành phố) – Charles Dickens
-29. 🌑 Romeo and Juliet – William Shakespeare
-30. The Hitchhiker’s Guide to the Galaxy (Hướng dẫn của người đi nhờ xe về con đường đến với dải ngân hà) – Douglas Adams
-31. The Secret Garden (Khu vườn bí mật) – Frances Hodgson Burnett
+29. 🌕 Romeo and Juliet – William Shakespeare
+30. 🌑 The Hitchhiker’s Guide to the Galaxy (Hướng dẫn của người đi nhờ xe về con đường đến với dải ngân hà) – Douglas Adams
+31. 🌑 The Secret Garden (Khu vườn bí mật) – Frances Hodgson Burnett
 32. A Christmas Carol (Bài hát mừng Giáng sinh) – Charles Dickens
 33. The Little Prince (Hoàng tử bé) – Antoine de Saint-Exupéry
 34. Brave New World (Tân thế giới dũng cảm) – Aldous Huxley
@@ -63,11 +63,11 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 37. The Handmaid’s Tale (Chuyện người tì nữ) – Margaret Atwood
 38. Where the Sidewalk Ends (Nơi lề đường) – Shel Silverstein
 39. Wuthering Heights (Đồi gió hú) – Emily Bronte
-40. The Fault in Our Stars (Khi lỗi thuộc về những vì sao) – John Green
+40. 🌑 The Fault in Our Stars (Khi lỗi thuộc về những vì sao) – John Green
 41. 🌑 Anne of Green Gabluees (Anne tóc đỏ dưới Chái nhà xanh) – L.M. Montgomery
 42. 🌑 The Adventures of Tom Sawyer (Những cuộc phiêu lưu của Tom Sawyer) – Mark Twain
 43. Macbeth - William Shakespeare
-44. The Girl with a Dragon Tattoo (Cô gái có hình xăm rồng) – Stieg Larrson
+44. 🌟 The Girl with a Dragon Tattoo (Cô gái có hình xăm rồng) – Stieg Larrson
 45. Frankenstein (Quái vật Frankenstein) – Mary Shelley
 46. The Holy Bible: King James Version (Kinh thánh)
 47. The Color Purple (Màu tía) – Alice Walker
@@ -92,11 +92,11 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 66. Les Misérables (Những người khốn khổ) – Victor Hugo
 67. Harry Potter and the Half-Blood Prince (Harry Potter và Hoàng tử lai) – J.K. Rowling
 68. Life of Pi (Cuộc đời của Pi) – Yann Martel
-69. 🌑 The Scarlet Letter (Chữ A màu đỏ) – Nathaniel Hawthorne
+69. 🌕 The Scarlet Letter (Chữ A màu đỏ) – Nathaniel Hawthorne
 70. Celebrating Silence: Excerpts from Five Years of Weekly Knowledge – Sri Sri Ravi Shankar
 71. The Chronicles of Narnia ((Biên niên sử Narnia) – C.S. Lewis
 72. The Pillars of the Earth (Những trụ cột của Trái đất) – Ken Follett
-73. 🌑 Catching Fire (Bắt lửa) – Suzanne Collins
+73. 🌟 Catching Fire (Bắt lửa) – Suzanne Collins
 74. Charlie and the Chocolate Factory (Charlie và Nhà máy socola) – Roald Dahl
 75. Dracula (Bá tước Dracula) – Bram Stoker
 76. The Princess Bride (Cô dâu công chúa) -William Goldman
@@ -108,7 +108,7 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 82. The Time Traveler’s Wife (Vợ người du hành thời gian) – Audrey Niffenegger
 83. The Odyssey (Sử thi Odyssey) – Homer
 84. The Good Earth (House of Earth #1) (Đất lành) – Pearl S. Buck
-85. 🌑 Mockingjay (Hunger Games #3) (Húng nhại – tập 3 của Đấu trường sinh tử) – Suzanne Collins
+85. 🌟 Mockingjay (Hunger Games #3) (Húng nhại – tập 3 của Đấu trường sinh tử) – Suzanne Collins
 86. And Then There Were None (Mười người da đen nhỏ) – Agatha Christie
 87. The Thorn Birds (Tiếng chim hót trong bụi mận gai) – Colleen McCullough
 88. A Prayer for Owen Meany (Lời cầu nguyện cho Owen Meany) – John Irving
@@ -117,13 +117,13 @@ Nhân tháng đọc sách này, chuyên trang Goodreads.com – nơi trao đổi
 91. Crime and Punishment (Tội ác và hình phạt) – Fyodor Dostoyevsky
 92. The Road (Con đường) – Cormac McCarthy
 93. The Things They Carried (Những thứ họ mang) – Tim O’Brien
-94. 🌑 Siddhartha (Câu chuyện dòng sông) – Hermann Hesse
+94. 🌟 Siddhartha (Câu chuyện dòng sông) – Hermann Hesse
 95. Beloved (Người yêu dấu) – Toni Morrison
 96. Slaughterhouse-Five (Lò sát sinh số 5) – Kurt Vonnegut
 97. Cutting For Stone – Abraham Verghese
 98. The Phantom Tollbooth (Trại giam tưởng tượng) – Norton Juster
-99. The Brothers Karamazov (Anh em nhà Karamazov) – Fyodor Dostoyevsky
-100. The Story of My Life (Câu chuyện đời tôi) – Helen Keller
+99. 🌑 The Brothers Karamazov (Anh em nhà Karamazov) – Fyodor Dostoyevsky
+100.🌗The Story of My Life (Câu chuyện đời tôi) – Helen Keller
 
 Bùi Ly (Nguồn Goodreads)
 
